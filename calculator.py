@@ -15,5 +15,5 @@ def divide( first, second):
     # TODO:
     # fill in code here that:
     if second == 0: 
-        raise Exception('I\'m sorry, I can\'t divide by zero.')
+        raise Exception('I\'m sorry, I can\'t divide by zero')
     return first/second
